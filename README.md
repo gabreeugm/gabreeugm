@@ -32,6 +32,8 @@
 
 <br><br>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabreeugm&theme=radical)
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
