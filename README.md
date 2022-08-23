@@ -1,6 +1,6 @@
 
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/gabreeugm/9eb0e44909ecf8f85c1ad0236b2705a1/raw/89043afe253489a8afd3e1fd27c6e95e99405894/cart%C3%A3o%20github.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/gabreeugm/b9c7dd33aa22f999b0fe10c52063f36a/raw/4fddad7f0787ed0d217b99ab6e61c86a0e7cf017/cart%C3%A3o%20github2.svg"/>
 <h1 align="left">Olá mundo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Gabriel Gama</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabreeugm&color=blue" alt="Profile views" /> </p>
 
@@ -14,9 +14,9 @@
 
 <div align="left">
   <a href="https://github.com/gabreeugm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabreeugm&theme=github_dark&show_icons=true"/>
-  <img height="118em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabreeugm&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabreeugm&theme=monokai&show_icons=true"/>
+  <img height="118em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabreeugm&layout=compact&langs_count=7&theme=monokai"/>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gama-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
