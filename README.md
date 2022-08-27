@@ -1,6 +1,6 @@
 
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/gabreeugm/b9c7dd33aa22f999b0fe10c52063f36a/raw/4fddad7f0787ed0d217b99ab6e61c86a0e7cf017/cart%C3%A3o%20github2.svg"/>
+<img align="right" height="570" src="https://raw.githubusercontent.com/gist/gabreeugm/b9c7dd33aa22f999b0fe10c52063f36a/raw/4fddad7f0787ed0d217b99ab6e61c86a0e7cf017/cart%C3%A3o%20github2.svg"/>
 <h1 align="left">Olá mundo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Gabriel Gama</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabreeugm&color=blue" alt="Profile views" /> </p>
 
