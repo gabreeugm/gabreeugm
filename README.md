@@ -12,7 +12,7 @@
 
 - 😄 Pronomes: ele/dele
 
-<div align="left">
+<div align="left" height="570>
   <a href="https://github.com/gabreeugm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabreeugm&theme=monokai&show_icons=true"/>
   <img height="118em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabreeugm&layout=compact&langs_count=7&theme=monokai"/>
