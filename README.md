@@ -4,7 +4,7 @@
 <h1 align="left">Olá mundo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Gabriel Gama</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabreeugm&color=blue" alt="Profile views" /> </p>
 
-- 💼 Atualmente trabalhando como auxiliar administrativo
+- 💼 Atualmente trabalhando como auxiliar de logística
 
 - 🌱 Estudando C# e JavaScript
 
