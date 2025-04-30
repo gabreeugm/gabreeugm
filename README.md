@@ -22,7 +22,7 @@ Atualmente trabalho com ERP, mas estou em constante evolução com projetos pró
 
 ### 📊 GitHub Stats
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabreeugm&show_icons=true&theme=radical)
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabreeugm&show_icons=true&theme=dark)
 
 ---
 
