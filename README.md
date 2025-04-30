@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Gabriel Gama!
 
-<!--
-**gabreeugm/gabreeugm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor de sistemas com experiência no sistema **TOTVS Protheus (AdvPL/TLPP)**, atuando no setor de TI com foco em **manutenção de sistemas, automações e suporte a áreas-chave da empresa**.
 
-Here are some ideas to get you started:
+🚀 Tenho interesse em **desenvolvimento Python** e **Front-end moderno (HTML, CSS, JavaScript)**. Amo transformar ideias em soluções visuais e funcionais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias e ferramentas
+
+- 💼 **Protheus | AdvPL | TLPP**
+- 🐍 **Python** — automações, scripts, bots e projetos pessoais
+- 🌐 **HTML | CSS | JavaScript**
+- ⚙️ SQL, Git, GitHub, APIs REST
+- 🧠 Estudando: React.js, Flask e arquitetura de sistemas
+
+---
+
+### 📌 Alguns projetos meus
+
+🔸 [Calculadora Web]([(https://github.com/gabreeugm/CalculadoraWeb)])
+🔸 [Gerador de Senha](([https://github.com/gabreeugm/GeradorDeSenha)])
+🔸 [Landing Page]([(https://github.com/gabreeugm/LandingPage)])
+
+---
+
+### 💬 Sobre mim
+
+- 🎮 Gamer nas horas vagas, criador de conteúdo nas ideias
+- 🧩 Curioso por tecnologia desde criança
+- 🔍 Buscando oportunidades que me desafiem, valorizem e permitam crescer
+
+---
+
+### 📫 Vamos conversar?
+
+- LinkedIn: [Gabriel Gama]([(https://www.linkedin.com/in/gabrielvgama/)])  
+- Email: gabrielvictorgama@gmail.com
+
+---
+✨ Obrigado por visitar meu perfil! Se curtir algum projeto, deixa uma ⭐
