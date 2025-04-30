@@ -18,24 +18,25 @@ Sou desenvolvedor de sistemas com experiência no sistema **TOTVS Protheus (AdvP
 
 ### 📌 Alguns projetos meus
 
-🔸 [Calculadora Web]([(https://github.com/gabreeugm/CalculadoraWeb)])
-🔸 [Gerador de Senha](([https://github.com/gabreeugm/GeradorDeSenha)])
-🔸 [Landing Page]([(https://github.com/gabreeugm/LandingPage)])
+🔸 [Calculadora Web](https://github.com/gabreeugm/CalculadoraWeb)  
+🔸 [Gerador de Senha](https://github.com/gabreeugm/GeradorDeSenha)  
+🔸 [Landing Page](https://github.com/gabreeugm/LandingPage)
 
 ---
 
 ### 💬 Sobre mim
 
-- 🎮 Gamer nas horas vagas, criador de conteúdo nas ideias
-- 🧩 Curioso por tecnologia desde criança
+- 🎮 Gamer nas horas vagas, criador de conteúdo nas ideias  
+- 🧩 Curioso por tecnologia desde criança  
 - 🔍 Buscando oportunidades que me desafiem, valorizem e permitam crescer
 
 ---
 
 ### 📫 Vamos conversar?
 
-- LinkedIn: [Gabriel Gama]([(https://www.linkedin.com/in/gabrielvgama/)])  
+- LinkedIn: [Gabriel Gama](https://www.linkedin.com/in/gabrielvgama/)  
 - Email: gabrielvictorgama@gmail.com
 
 ---
-✨ Obrigado por visitar meu perfil! Se curtir algum projeto, deixa uma ⭐
+
+✨ Obrigado por visitar meu perfil! Se algum projeto te inspirar, deixa uma ⭐ ou me chama pra conversar!
