@@ -34,7 +34,7 @@ Atualmente trabalho com ERP, mas estou em constante evolução com projetos pró
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabreeugm&show_icons=true&theme=gchartreuse-dark" alt="Estatísticas do GitHub Gabriel Gama">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabreeugm&show_icons=true&theme=merko" alt="Estatísticas do GitHub Gabriel Gama">
 </p>
 
 ---
