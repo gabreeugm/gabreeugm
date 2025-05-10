@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FFA2&width=435&lines=Bem-vindo+ao+meu+GitHub!;Sou+Gabriel+Gama;Python+%7C+AdvPL+%7C+Front-end" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FFA2&width=435&lines=Bem-vindo+ao+meu+GitHub!"/>
 </p>
 
 ---
