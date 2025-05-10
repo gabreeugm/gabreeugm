@@ -1,4 +1,4 @@
-![88kM](https://github.com/user-attachments/assets/ac4583a2-081a-40ec-b9a0-c3a6119f1664)<p align="center">
+<p align="center">
   <img src="banner.png" alt="Banner Gabriel Gama" width="100%">
 </p>
 
@@ -13,12 +13,9 @@
 ### 🚀 Sobre mim
 
 <h3 align="left">
-  <img src="https://i.imgur.com/ZPJLOXV.gif" width="16">
+  <img src="![88kM](https://github.com/user-attachments/assets/ac4583a2-081a-40ec-b9a0-c3a6119f1664)" width="16">
   Pronouns: he | him
 </h3>
-
-![Uploading 88kM.gif…]()
-
 
 <h3 align="left">
   <img src="https://i.imgur.com/ZPJLOXV.gif" width="16">
