@@ -13,32 +13,32 @@
 ### 🚀 Sobre mim
 
 <h3 align="left">
-  <img src="https://gifer.com/en/88kM" width="16">
+  <img src="https://i.imgur.com/ZPJLOXV.gif" width="16">
   Pronouns: he | him
 </h3>
 
 <h3 align="left">
-  <img src="https://a.deviantart.net/avatars/w/o/woken-2010.gif?1" width="16">
+  <img src="https://i.imgur.com/ZPJLOXV.gif" width="16">
   Desenvolvedor de sistemas especializado em TOTVS Protheus (AdvPL / TLPP)
 </h3>
 
 <h3 align="left">
-  <img src="https://a.deviantart.net/avatars/w/o/woken-2010.gif?1" width="16">
+  <img src="https://i.imgur.com/ZPJLOXV.gif" width="16">
   Focado em evoluir como dev Python e Front-end
 </h3>
 
 <h3 align="left">
-  <img src="https://a.deviantart.net/avatars/w/o/woken-2010.gif?1" width="16">
+  <img src="https://i.imgur.com/ZPJLOXV.gif" width="16">
   Apaixonado por projetos próprios e desafios criativos
 </h3>
 
 <h3 align="left">
-  <img src="https://a.deviantart.net/avatars/w/o/woken-2010.gif?1" width="16">
-  Moro em São Paulo - Brasil
+  <img src="https://i.imgur.com/ZPJLOXV.gif" width="16">
+  Baseado em São Paulo - Brasil
 </h3>
 
 <h3 align="left">
-  <img src="https://a.deviantart.net/avatars/w/o/woken-2010.gif?1" width="16">
+  <img src="https://i.imgur.com/ZPJLOXV.gif" width="16">
   Aprendendo algo novo todos os dias 👾
 </h3>
 
