@@ -1,4 +1,11 @@
-# 👋 Olá, eu sou o Gabriel Gama!
+<h1 align="center">👋 Olá, eu sou o Gabriel Gama</h1>
+<p align="center">
+Desenvolvedor focado em construir soluções com propósito, código limpo e criatividade.
+</p>
+
+---
+
+### 🚀 Sobre mim
 
 Sou desenvolvedor de sistemas com experiência no **TOTVS Protheus (AdvPL/TLPP)**, mas meu verdadeiro foco é evoluir como dev **Python** e **Front-end**.
 
@@ -8,21 +15,23 @@ Atualmente trabalho com ERP, mas estou em constante evolução com projetos pró
 
 ### 🧠 Tecnologias que trabalho e estudo
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-AdvPL" height="30" width="40" src="https://img.icons8.com/color/48/source-code.png" title="AdvPL / TLPP">
-  <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabriel-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gabriel-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
+<p align="center">
+  <img src="https://img.icons8.com/color/48/source-code.png" height="30" title="AdvPL / TLPP"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" title="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" title="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="30" title="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30" title="Git"/>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabreeugm&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabreeugm&show_icons=true&theme=dark" alt="Estatísticas do GitHub Gabriel Gama">
+</p>
 
 ---
 
@@ -36,12 +45,17 @@ Atualmente trabalho com ERP, mas estou em constante evolução com projetos pró
 
 ### 📫 Vamos nos conectar?
 
-<div> 
-  <a href="https://www.linkedin.com/in/gabrielvgama/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:gabrielvictorgama@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <!-- Adicione YouTube, Instagram ou outra rede se quiser -->
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabrielvgama/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:gabrielvictorgama@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
 ---
 
+<p align="center">
 ✨ Obrigado por visitar meu perfil! Se curtir algum projeto, deixa uma ⭐ ou me chama pra trocar uma ideia!
+</p>
