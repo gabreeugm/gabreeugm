@@ -3,49 +3,46 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FFA2&width=435&lines=Bem-vindo+ao+meu+GitHub!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FFA2&width=435&lines=Welcome+to+my+GitHub!"/>
 </p>
 
 ---
 
----
-
-### 🚀 Sobre mim
+### 🚀 About Me
 
 <h3 align="left">
-  <img src="![88kM](https://github.com/user-attachments/assets/ac4583a2-081a-40ec-b9a0-c3a6119f1664)" width="16">
+  <img src="https://i.imgur.com/ZPJLOXV.gif" width="16">
   Pronouns: he | him
 </h3>
 
 <h3 align="left">
   <img src="https://i.imgur.com/ZPJLOXV.gif" width="16">
-  Desenvolvedor de sistemas especializado em TOTVS Protheus (AdvPL / TLPP)
+  Systems developer specialized in TOTVS Protheus (AdvPL / TLPP)
 </h3>
 
 <h3 align="left">
   <img src="https://i.imgur.com/ZPJLOXV.gif" width="16">
-  Focado em evoluir como dev Python e Front-end
+  Focused on growing as a Python and Front-end developer
 </h3>
 
 <h3 align="left">
   <img src="https://i.imgur.com/ZPJLOXV.gif" width="16">
-  Apaixonado por projetos próprios e desafios criativos
+  Passionate about personal projects and creative challenges
 </h3>
 
 <h3 align="left">
   <img src="https://i.imgur.com/ZPJLOXV.gif" width="16">
-  Baseado em São Paulo - Brasil
+  Based in São Paulo, Brazil
 </h3>
 
 <h3 align="left">
   <img src="https://i.imgur.com/ZPJLOXV.gif" width="16">
-  Aprendendo algo novo todos os dias 👾
+  Always learning something new 👾
 </h3>
-
 
 ---
 
-### 🧠 Tecnologias que trabalho e estudo
+### 🧠 Technologies I work with and study
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/source-code.png" height="30" title="AdvPL / TLPP"/>
@@ -62,32 +59,32 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabreeugm&show_icons=true&theme=merko" alt="Estatísticas do GitHub Gabriel Gama">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabreeugm&show_icons=true&theme=merko" alt="Gabriel Gama GitHub Stats">
 </p>
 
 ---
 
-### 🌱 Projetos em destaque
+### 🌱 Featured Projects
 
-- 🔸 [Calculadora Web](https://github.com/gabreeugm/CalculadoraWeb)
-- 🔸 [Gerador de Senha](https://github.com/gabreeugm/GeradorDeSenha)
+- 🔸 [Web Calculator](https://github.com/gabreeugm/CalculadoraWeb)
+- 🔸 [Password Generator](https://github.com/gabreeugm/GeradorDeSenha)
 - 🔸 [Landing Page](https://github.com/gabreeugm/LandingPage)
 
 ---
 
-### 📫 Vamos nos conectar?
+### 📫 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabrielvgama/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:gabrielvictorgama@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
 ---
 
 <p align="center">
-✨ Obrigado por visitar meu perfil! Se curtir algum projeto, deixa uma ⭐ ou me chama pra trocar uma ideia!
+✨ Thanks for visiting my profile! If you like any project, leave a ⭐ or feel free to reach out!
 </p>
