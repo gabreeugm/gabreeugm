@@ -2,9 +2,8 @@
   <img src="banner.png" alt="Banner Gabriel Gama" width="100%">
 </p>
 
-<h1 align="center">👋 Olá, eu sou o Gabriel Gama</h1>
 <p align="center">
-Desenvolvedor focado em construir soluções com propósito, código limpo e criatividade.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1000&color=00FFAA&width=300&lines=Welcome+to+my+Github!;I'm+Gabriel+Gama!;Python+Developer+💻" />
 </p>
 
 ---
