@@ -13,7 +13,7 @@
 ### 🚀 Sobre mim
 
 <h3 align="left">
-  <img src="https://a.deviantart.net/avatars/w/o/woken-2010.gif?1" width="16">
+  <img src="https://gifer.com/en/88kM" width="16">
   Pronouns: he | him
 </h3>
 
