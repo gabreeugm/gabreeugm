@@ -8,11 +8,39 @@
 
 ---
 
+---
+
 ### 🚀 Sobre mim
 
-Sou desenvolvedor de sistemas com experiência no **TOTVS Protheus (AdvPL/TLPP)**, mas meu verdadeiro foco é evoluir como dev **Python** e **Front-end**.
+<h3 align="left">
+  <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="16">
+  Pronouns: he | him
+</h3>
 
-Atualmente trabalho com ERP, mas estou em constante evolução com projetos próprios e estudos nas áreas que me desafiam e empolgam.
+<h3 align="left">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="16">
+  Desenvolvedor de sistemas especializado em TOTVS Protheus (AdvPL / TLPP)
+</h3>
+
+<h3 align="left">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="16">
+  Focado em evoluir como dev Python e Front-end
+</h3>
+
+<h3 align="left">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="16">
+  Apaixonado por projetos próprios e desafios criativos
+</h3>
+
+<h3 align="left">
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="16">
+  Baseado em São Paulo - Brasil
+</h3>
+
+<h3 align="left">
+  <img src="https://media.giphy.com/media/l0MYGb1LuZ3n7dRnO/giphy.gif" width="16">
+  Aprendendo algo novo todos os dias 👾
+</h3>
 
 ---
 
