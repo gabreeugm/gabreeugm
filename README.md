@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Banner Gabriel Gama" width="100%">
+</p>
+
 <h1 align="center">👋 Olá, eu sou o Gabriel Gama</h1>
 <p align="center">
 Desenvolvedor focado em construir soluções com propósito, código limpo e criatividade.
@@ -30,7 +34,7 @@ Atualmente trabalho com ERP, mas estou em constante evolução com projetos pró
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabreeugm&show_icons=true&theme=dark" alt="Estatísticas do GitHub Gabriel Gama">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabreeugm&show_icons=true&theme=gruvbox" alt="Estatísticas do GitHub Gabriel Gama">
 </p>
 
 ---
