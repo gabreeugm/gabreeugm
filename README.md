@@ -32,7 +32,7 @@
 
 <h3 align="left">
   <img src="https://i.imgur.com/ZPJLOXV.gif" width="16">
-  Based in São Paulo, Brazil
+  Lives in São Paulo, Brazil
 </h3>
 
 <h3 align="left">
